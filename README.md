@@ -92,6 +92,3 @@ If roll number is valid and that roll number is existnig in database
   https://user-images.githubusercontent.com/72729279/209667623-a34280bf-97cd-4eae-9584-b5022ea194bc.mp4
   
 
-  --------------------
-## Hope You Like the Project ❤️❤️❤️
-## Peace to everyone 🙏🏻
