@@ -76,7 +76,7 @@ If roll number is valid and that roll number is existnig in database
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
   ##### Clone the project 
   ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
+  git clone https://github.com/SmitDoshi1610/JSONPowerDB.git
   ```
   After cloning 
   
